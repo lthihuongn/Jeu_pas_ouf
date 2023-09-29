@@ -1,5 +1,4 @@
 énoncé : le jeu pas ouf
 
-1 essai, choisissez un nombre entre 1 et 6. Si le nombre obtenu est inférieur au nombre choisi, c'est gagné.
-Devinerez vous le nombre ?
-(aucune inspi, bon divertissement mdr...)
+Crée un jeu qui demande à l'utilisateur un nombre, à ce nombre est associé un autre nombre. Si le nombre associé par le prgm est inferieur à celui choisi par le prgm, c'est perdu, alors l'utilisateur rejoue.
+Pour le prgm utiliser des "if" pour la condition de victoire et une fonction recursive pour que le joueur joue jusqu'a victoire.
